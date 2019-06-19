@@ -1,1 +1,2 @@
 use conn;
+start sql;
