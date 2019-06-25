@@ -1,2 +1,0 @@
-use conn;
-start sql;
